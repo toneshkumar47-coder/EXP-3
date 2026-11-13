@@ -1,10 +1,7 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
-|---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
-
----
+## NAME : TONESH K
+## REG NO : 26009529
 
 ## AIM
 
@@ -45,57 +42,32 @@ To control the status of the given lamp by using two-way switches.
 
 ## A. DIRECT CONNECTION
 
+<img width="995" height="617" alt="Screenshot 2026-11-13 185843" src="https://github.com/user-attachments/assets/dda32a41-0f8c-44f5-8191-20222fd163b0" />
+
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="1023" height="621" alt="Screenshot 2026-11-13 185850" src="https://github.com/user-attachments/assets/5020dd57-03ee-4932-880e-111d73a9980e" />
 
-**Figure 1:** Staircase wiring – direct connection
 
 ### Tabulation 1: Truth table – direct connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
-
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="856" height="535" alt="Screenshot 2026-11-13 185859" src="https://github.com/user-attachments/assets/e04f82b9-bffa-4e17-ad0d-074b750a3778" />
 
 ## B. CROSS CONNECTION
 
+<img width="995" height="617" alt="Screenshot 2026-11-13 185843" src="https://github.com/user-attachments/assets/af0b3321-04a3-4c7f-8082-f8c6d106b0e2" />
+
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="912" height="690" alt="Screenshot 2026-11-13 185917" src="https://github.com/user-attachments/assets/1b2dee99-49fc-436a-b76c-4fa60d6ae874" />
 
-**Figure 2:** Staircase wiring – cross connection
+
 
 ### Tabulation 2: Truth table – cross connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
+<img width="1026" height="632" alt="Screenshot 2026-11-13 185926" src="https://github.com/user-attachments/assets/f58869dd-5d7c-41e2-8744-0cfac7057756" />
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-
-## SIMULATION USING PROTEUS
-
-Build both the direct and cross connection circuits in Proteus using an AC source, two SPDT switches and a lamp. Run the simulation for each switch combination and paste screenshots showing the lamp ON and OFF states.
-
-### A. Direct connection – simulation
-
-*[ Paste the Proteus direct connection simulation screenshot here ]*
-
-**Figure 3:** Proteus simulation – direct connection
-
-### B. Cross connection – simulation
-
-*[ Paste the Proteus cross connection simulation screenshot here ]*
-
-**Figure 4:** Proteus simulation – cross connection
+<img width="1031" height="472" alt="Screenshot 2026-11-13 185933" src="https://github.com/user-attachments/assets/9f9f8c50-aea4-4078-8563-788e5b15db13" />
 
 ## RESULT
 
