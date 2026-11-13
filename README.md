@@ -55,12 +55,12 @@ To control the status of the given lamp by using two-way switches.
 
 ## B. CROSS CONNECTION
 
-<img width="995" height="617" alt="Screenshot 2026-11-13 185843" src="https://github.com/user-attachments/assets/af0b3321-04a3-4c7f-8082-f8c6d106b0e2" />
+<img width="954" height="574" alt="Screenshot 2026-11-13 185907" src="https://github.com/user-attachments/assets/5c07dd06-6fed-4552-ae9a-0915c6f14d64" />
+
 
 ### Circuit diagram
 
 <img width="912" height="690" alt="Screenshot 2026-11-13 185917" src="https://github.com/user-attachments/assets/1b2dee99-49fc-436a-b76c-4fa60d6ae874" />
-
 
 
 ### Tabulation 2: Truth table – cross connection
